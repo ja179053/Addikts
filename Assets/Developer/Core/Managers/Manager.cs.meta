@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dc1117cb8ea1afc4aabba037880b0d8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item: {fileID: 8300000, guid: d2091b54c0f36d04fb55362df5fc21c7, type: 3}
+  - hit: {fileID: 8300000, guid: f963ce238df2284458957a9101c82f86, type: 3}
+  - drop: {fileID: 8300000, guid: f07f8ac443f961946a4ba004ab40a577, type: 3}
+  - levelUp: {fileID: 8300000, guid: cf1508a53f673bc43b3bf7d2c657e64c, type: 3}
+  - victory: {fileID: 8300000, guid: 782f29d92e7d4664d927143fbfb5a958, type: 3}
+  - battleStart: {fileID: 8300000, guid: 20aa74979cfb74d45b1a7dbae40ba72d, type: 3}
+  executionOrder: 350
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

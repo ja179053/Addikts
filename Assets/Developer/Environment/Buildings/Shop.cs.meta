@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 642d8495c5c0a9c43b4e88c9e6eab979
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shopkeeperVO: {instanceID: 0}
+  - nooneHereVO: {fileID: 8300000, guid: 55720a412f4ae40489ea5a22aa224896, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

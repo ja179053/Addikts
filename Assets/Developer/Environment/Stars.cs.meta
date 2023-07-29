@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64345c484b44ea54aaa180a633e891d9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - star: {instanceID: 0}
+  - trailRenderer: {fileID: 1437637910478442, guid: 5b2a70400f712124db0e84c260b5ff94,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
